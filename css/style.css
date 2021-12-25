@@ -501,7 +501,7 @@ header {
   align-items: center; }
 
 .intro {
-  background: url("../../img/introbg.png") center no-repeat;
+  background: url("../img/introbg.png") center no-repeat;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -638,7 +638,7 @@ header {
   height: 370px; }
 
 .portfolio__grid-item1 {
-  background: url("../../img/clock.png") center no-repeat;
+  background: url("../img/clock.png") center no-repeat;
   background-size: cover; }
   .portfolio__grid-item1:hover {
     opacity: 0.8;
@@ -647,7 +647,7 @@ header {
     transition: .5s; }
 
 .portfolio__grid-item2 {
-  background: url("../../img/packaging.png") center no-repeat;
+  background: url("../img/packaging.png") center no-repeat;
   background-size: cover; }
   .portfolio__grid-item2:hover {
     opacity: 0.8;
@@ -656,7 +656,7 @@ header {
     transition: .5s; }
 
 .portfolio__grid-item3 {
-  background: url("../../img/t-shirt.png") center no-repeat;
+  background: url("../img/t-shirt.png") center no-repeat;
   background-size: cover; }
   .portfolio__grid-item3:hover {
     opacity: 0.8;
@@ -665,7 +665,7 @@ header {
     transition: .5s; }
 
 .portfolio__grid-item4 {
-  background: url("../../img/flask.png") center no-repeat;
+  background: url("../img/flask.png") center no-repeat;
   background-size: cover; }
   .portfolio__grid-item4:hover {
     opacity: 0.8;
@@ -674,7 +674,7 @@ header {
     transition: .5s; }
 
 .portfolio__grid-item5 {
-  background: url("../../img/botle.png") center no-repeat;
+  background: url("../img/botle.png") center no-repeat;
   background-size: cover; }
   .portfolio__grid-item5:hover {
     opacity: 0.8;
@@ -683,7 +683,7 @@ header {
     transition: .5s; }
 
 .portfolio__grid-item6 {
-  background: url("../../img/bag.png") center no-repeat;
+  background: url("../img/bag.png") center no-repeat;
   background-size: cover; }
   .portfolio__grid-item6:hover {
     opacity: 0.8;
@@ -724,7 +724,7 @@ header {
 
 .form {
   width: 100%;
-  background: url("../../img/formbg.png") center no-repeat;
+  background: url("../img/formbg.png") center no-repeat;
   background-size: cover; }
   .form form {
     max-width: 1030px;
@@ -1091,15 +1091,15 @@ footer {
   width: 570px; }
 
 .blog-grid__image_1 {
-  background: url("../../img/seo.png") center no-repeat;
+  background: url("../img/seo.png") center no-repeat;
   background-size: cover; }
 
 .blog-grid__image_2 {
-  background: url("../../img/apple-desk-working-technology.png") center no-repeat;
+  background: url("../img/apple-desk-working-technology.png") center no-repeat;
   background-size: cover; }
 
 .blog-grid__image_3 {
-  background: url("../../img/imac-apple-mockup-app-38544.png") center no-repeat;
+  background: url("../img/imac-apple-mockup-app-38544.png") center no-repeat;
   background-size: cover; }
 
 .blog-grid__info {
