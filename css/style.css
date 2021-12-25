@@ -486,6 +486,7 @@ header {
   background-color: #DAFDF9FF; }
 
 .info-block2 {
+  padding:40px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
