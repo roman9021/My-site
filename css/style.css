@@ -1037,15 +1037,15 @@ footer {
   height: 320px; }
 
 .our-team-card-img_1 {
-  background: url("./img/person1.png") center no-repeat;
+  background: url("../img/person1.png") center no-repeat;
   background-size: cover; }
 
 .our-team-card-img_2 {
-  background: url("./img/person2.png") center no-repeat;
+  background: url("../img/person2.png") center no-repeat;
   background-size: cover; }
 
 .our-team-card-img_3 {
-  background: url("./img/person3.png") center no-repeat;
+  background: url("../img/person3.png") center no-repeat;
   background-size: cover; }
 
 @-webkit-keyframes Hand {
